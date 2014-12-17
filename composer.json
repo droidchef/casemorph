@@ -1,6 +1,7 @@
 {
     "name": "ishan/casemorph",
     "description": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ishan",
@@ -16,10 +17,5 @@
             "Ishan\\Casemorph": "src/"
         }
     },
-    "minimum-stability": "stable",
-    "extra": {
-        "branch-alias": {
-            "master": "0.0.1"
-        }
-    }
+    "minimum-stability": "stable"
 }
