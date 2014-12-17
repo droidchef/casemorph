@@ -16,5 +16,10 @@
             "Ishan\\Casemorph": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.1",
+        }
+    }
 }
